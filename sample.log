@@ -1,5 +1,8 @@
-Tue Mar 12 09:50:42 2019: Started JSON Parsing
-Tue Mar 12 09:50:42 2019: JSON Successfully Parsed
-Tue Mar 12 09:50:42 2019: 3 Experiments to be Analyzed
-Tue Mar 12 09:50:42 2019: Analyzing experiment  1 ... Experiment 1
-Tue Mar 12 09:51:56 2019: Analyzing experiment  1 ... Experiment 2
+Tue Mar 12 10:06:06 2019: Started JSON Parsing
+Tue Mar 12 10:06:06 2019: JSON Successfully Parsed
+Tue Mar 12 10:06:06 2019: 3 Experiments to be Analyzed
+Tue Mar 12 10:06:06 2019: Analyzing Experiment  1 ... Experiment 1
+Tue Mar 12 10:07:26 2019: Analyzing Experiment  2 ... Experiment 2
+Tue Mar 12 10:08:15 2019: Analyzing Experiment  3 ... Experiment 3: static(control), flow(experimental)
+Tue Mar 12 10:09:17 2019:  16056  out of  20348  HUGO genes were complete across all experiments
+Tue Mar 12 10:09:17 2019: RData Succesfully Writtten to  sample.log 
