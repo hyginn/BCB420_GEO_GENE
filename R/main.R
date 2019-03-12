@@ -230,6 +230,6 @@ afterQuantile <- normalize.quantiles(retNoNA, copy = FALSE)
 
 save(afterQuantile, file = outputFile)
 cat(format(Sys.time(), "%a %b %d %X %Y"), file = logFile, append=TRUE)
-cat(paste(": RData Succesfully Writtten to ", logFile,"\n"), file = logFile, append=TRUE)
+cat(paste(": RData Succesfully Writtten to ", outputFile,"\n"), file = logFile, append=TRUE)
 
 # [END]
