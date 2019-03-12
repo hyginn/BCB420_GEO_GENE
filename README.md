@@ -31,3 +31,8 @@ Sample JSON input:
 	}
 ]
 ```
+
+## References
+
+Utilized Boris Steipe's GEO expression analysis code:
+https://github.com/hyginn/zu/blob/master/inst/scripts/expressionAnalysisSampleCode.R
