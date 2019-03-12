@@ -180,7 +180,7 @@ parseJson <- function(filename) {
     e  <-  as.list(experiment$experimentalSamples)
     
     cat(format(Sys.time(), "%a %b %d %X %Y"), file = logFile, append=TRUE)
-    cat(paste(": Analyzing experiment ", counter,"...", d), file = logFile, append=TRUE)
+    cat(paste(": Analyzing Experiment ", counter,"...", d), file = logFile, append=TRUE)
     cat("\n", file = logFile, append=TRUE)
     
     # Quick check to stop reloading the GEO data file unnecessarily
@@ -200,6 +200,7 @@ parseJson <- function(filename) {
     } else {
       retData <- cbind(retData, newCol)
     }
+    counter <- counter + 1
   }
   return(retData)
 }
