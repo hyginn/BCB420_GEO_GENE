@@ -1,7 +1,9 @@
 # BCB420_GEO_GENE
 
-Please use `./R/main.R`, and edit the three parameters at the top of the R script.
+## Usage
+The usage is explained in `./R/main.R`. The main step is to create a JSON file as described below, and edit the parameters at the top of the R script.
 
+Parameters to edit:
 ```
 # json filename
 inputFile <- "sample.json"
