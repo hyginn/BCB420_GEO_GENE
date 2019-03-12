@@ -19,6 +19,8 @@ logFile <- "sample.log"
 
 Each experiment (comparison) is considered to be a JSON object, with the parameters "geoSeries", "description", "controlSamples", and "experimentalSamples". The values for each parameter should be a string. "geoSeries" describes the GEO Series identifier. "description" should be a unique description or descriptor for the experiment. "controlSamples" defines the normal sample(s), and "experimentalSamples" defines the experimental sample(s).
 
+The JSON file is an array of experiments.
+
 Sample JSON input:
 ```
 [{
