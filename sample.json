@@ -1,0 +1,20 @@
+[{
+		"geoDataset": "GSE35330",
+		"description": "Experiment 1",
+		"controlSamples": ["GSM866121", "GSM866122", "GSM866124", "GSM866126"],
+		"experimentalSamples": ["GSM866111", "GSM866116", "GSM866118", "GSM866119"]
+	},
+	{
+		"geoDataset": "GSE35330",
+		"description": "Experiment 2",
+		"controlSamples": ["GSM866133", "GSM866135", "GSM866136", "GSM866138"],
+		"experimentalSamples": ["GSM866127", "GSM866129", "GSM866130", "GSM866132"]
+	},
+	{
+		"geoDataset": "GSE64670",
+		"description": "Experiment 3: static(control), flow(experimental)",
+		"controlSamples": ["GSM1576698", "GSM1576699", "GSM1576700"],
+		"experimentalSamples": ["GSM1576701", "GSM1576702", "GSM1576703"]
+	}
+
+]
